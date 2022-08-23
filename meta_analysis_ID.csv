@@ -1,0 +1,211 @@
+Species;Familly ;Population;Trait;ID diploid;ID synthetic tetraploid;ID tetraploid;Ratio_diplo_neo;Ratio_diplo_tetra;Selfing_diplo;Selfing_poly;poly_type;phylo_corr;Reference
+Chamerion angustifolium;onagraceae;single;Cumulative fitness;0,92;-0,13;0,62;-0,141304348;0,673913043;0,1;0,285;Auto;Chamerion_angustifolium;Husband_et_al_2008_International_Journal_of_Plant_Sciences
+Campanula americana;campanulaceae;River;Seed number;NA;NA;0,122119816;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;River;Seed mass;NA;NA;0,035856574;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;River;Germination time;NA;NA;-0,14375;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;River;Leaf length;NA;NA;0,173469388;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;River;Biomass;NA;NA;0,076923077;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;River;Flowering time;NA;NA;-0,030602172;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;River;Flower number;NA;NA;0,108870968;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;River;Germination rate;NA;NA;0,018181818;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;River;Survival rate;NA;NA;0,093579978;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;River;Flowering rate;NA;NA;0,048618785;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;River;Cumulative fitness;NA;NA;0,234579439;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn613;Seed number;NA;NA;-0,003424658;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn613;Seed mass;NA;NA;0,067137809;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn613;Germination time;NA;NA;-0,083769634;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn613;Leaf length;NA;NA;0,155913978;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn613;Biomass;NA;NA;0,200980392;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn613;Flowering time;NA;NA;0,028619529;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn613;Flower number;NA;NA;0,120517928;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn613;Germination rate;NA;NA;0,018472906;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn613;Survival rate;NA;NA;0,088077336;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn613;Flowering rate;NA;NA;0,111402359;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn613;Cumulative fitness;NA;NA;0,142857143;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn700;Seed number;NA;NA;0,028490028;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn700;Seed mass;NA;NA;0,010752688;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn700;Germination time;NA;NA;-0,064748201;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn700;Leaf length;NA;NA;0,106060606;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn700;Biomass;NA;NA;0,258695652;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn700;Flowering time;NA;NA;-0,013068182;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn700;Flower number;NA;NA;0,210687023;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn700;Germination rate;NA;NA;0,030487805;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn700;Survival rate;NA;NA;0,098947368;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn700;Flowering rate;NA;NA;0,218571429;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Campanula americana;campanulaceae;Mtn700;Cumulative fitness;NA;NA;0,412658228;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_et_al_2003_Heredity
+Chamerion angustifolium;onagraceae;T2;Seed number;0,850828729;NA;0,43359375;NA;0,509613433;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Chamerion angustifolium;onagraceae;T2;Germination rate;0,25483504;NA;0,135483871;NA;0,531653226;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Chamerion angustifolium;onagraceae;T2;Survival rate;0,172043011;NA;0,14893617;NA;0,865691489;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Chamerion angustifolium;onagraceae;T2;Dry mass;0,487179487;NA;0,340336134;NA;0,698584697;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Chamerion angustifolium;onagraceae;T2;Cumulative fitness;0,952;NA;0,725;NA;0,761554622;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Chamerion angustifolium;onagraceae;T4;Seed number;0,833034111;NA;0,516220028;NA;0,619686542;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Chamerion angustifolium;onagraceae;T4;Germination rate;0,182126697;NA;0,155728587;NA;0,855056343;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Chamerion angustifolium;onagraceae;T4;Survival rate;0,206185567;NA;0;NA;0;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Chamerion angustifolium;onagraceae;T4;Dry mass;0,462121212;NA;0,437007874;NA;0,945656383;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Chamerion angustifolium;onagraceae;T4;Cumulative fitness;0,941;NA;0,77;NA;0,818278427;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Chamerion angustifolium;onagraceae;T26;Seed number;0,850828729;NA;0,290531777;NA;0,341469166;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Chamerion angustifolium;onagraceae;T26;Germination rate;0,25483504;NA;0,048260382;NA;0,189378908;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Chamerion angustifolium;onagraceae;T26;Survival rate;0,172043011;NA;0;NA;0;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Chamerion angustifolium;onagraceae;T26;Dry mass;0,487179487;NA;0,293333333;NA;0,602105263;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Chamerion angustifolium;onagraceae;T26;Cumulative fitness;0,952;NA;0,593;NA;0,62289916;0,1;0,285;Auto;Chamerion_angustifolium;Husband_Schemske_1997_Evolution
+Jasione maritima;campanulaceae;Mean;Fruit number;0,833034111;0,024;NA;0,028810345;NA;0,15;0,15;Auto;Jasione_crispa;Siopa_et_al_2020_American_Journal_of_Botany
+Jasione maritima;campanulaceae;Mean;Seed number;0,182126697;0,83;NA;4,557267081;NA;0,15;0,15;Auto;Jasione_crispa;Siopa_et_al_2020_American_Journal_of_Botany
+Jasione maritima;campanulaceae;Mean;Germination rate;0,206185567;0,505;NA;2,44925;NA;0,15;0,15;Auto;Jasione_crispa;Siopa_et_al_2020_American_Journal_of_Botany
+Jasione maritima;campanulaceae;Mean;Leaves number;0,462121212;0,17;NA;0,367868852;NA;0,15;0,15;Auto;Jasione_crispa;Siopa_et_al_2020_American_Journal_of_Botany
+Jasione maritima;campanulaceae;Mean;Plant height;0,941;0,088;NA;0,093517535;NA;0,15;0,15;Auto;Jasione_crispa;Siopa_et_al_2020_American_Journal_of_Botany
+Jasione maritima;campanulaceae;Mean;Flowering rate;0,179;0,078;NA;0,43575419;NA;0,15;0,15;Auto;Jasione_crispa;Siopa_et_al_2020_American_Journal_of_Botany
+Jasione maritima;campanulaceae;Mean;Reproductive structures;0,267;0,17;NA;0,63670412;NA;0,15;0,15;Auto;Jasione_crispa;Siopa_et_al_2020_American_Journal_of_Botany
+Jasione maritima;campanulaceae;Mean;Aboveground biomass;0,339;0,225;NA;0,663716814;NA;0,15;0,15;Auto;Jasione_crispa;Siopa_et_al_2020_American_Journal_of_Botany
+Jasione maritima;campanulaceae;Mean;Belowground biomass;0,197;0,296;NA;1,502538071;NA;0,15;0,15;Auto;Jasione_crispa;Siopa_et_al_2020_American_Journal_of_Botany
+Jasione maritima;campanulaceae;Mean;Total biomass;0,287;0,238;NA;0,829268293;NA;0,15;0,15;Auto;Jasione_crispa;Siopa_et_al_2020_American_Journal_of_Botany
+Jasione maritima;campanulaceae;Mean;Cumulative fitness;0,942;0,922;NA;0,978768577;NA;0,15;0,15;Auto;Jasione_crispa;Siopa_et_al_2020_American_Journal_of_Botany
+Medicago sativa;fabaceae;Mean;Yield production;NA;NA;0,33;NA;NA;NA;0,05;Auto;Medicago_sativa;Busbice_Wilsie_Euphytica_1966
+Centaurea stoebe;asteraceae;Mean_native;Germination rate;0,12371134;NA;0,084210526;NA;0,680701754;0;0;Auto;Centaurea_stoebe;Rosche_et_al_2016_Journal_of_Ecology
+Centaurea stoebe;asteraceae;Mean_native;Survival rate;0,230769231;NA;0,037037037;NA;0,160493827;0;0;Auto;Centaurea_stoebe;Rosche_et_al_2016_Journal_of_Ecology
+Centaurea stoebe;asteraceae;Mean_native;Flowering rate;0,154929577;NA;0,054945055;NA;0,354645355;0;0;Auto;Centaurea_stoebe;Rosche_et_al_2016_Journal_of_Ecology
+Centaurea stoebe;asteraceae;Mean_native;Number of Capitula;0,113410596;NA;0,010869565;NA;0,09584259;0;0;Auto;Centaurea_stoebe;Rosche_et_al_2016_Journal_of_Ecology
+Centaurea stoebe;asteraceae;Mean_native;Cumulative fitness;0,518181818;NA;0,197183099;NA;0,380528787;0;0;Auto;Centaurea_stoebe;Rosche_et_al_2016_Journal_of_Ecology
+Digitalis purpurea;plantaginaceae;single;Seed number;NA;NA;0,027494908;NA;NA;NA;0,04;Auto;Digitalis_purpurea;Grindeland_2008_Journal_of_evolutionary_biology
+Digitalis purpurea;plantaginaceae;single;Seed mass;NA;NA;0,067821068;NA;NA;NA;0,04;Auto;Digitalis_purpurea;Grindeland_2008_Journal_of_evolutionary_biology
+Digitalis purpurea;plantaginaceae;single;Germination speed;NA;NA;-0,032842582;NA;NA;NA;0,04;Auto;Digitalis_purpurea;Grindeland_2008_Journal_of_evolutionary_biology
+Digitalis purpurea;plantaginaceae;single;Germination rate;NA;NA;0,007209063;NA;NA;NA;0,04;Auto;Digitalis_purpurea;Grindeland_2008_Journal_of_evolutionary_biology
+Digitalis purpurea;plantaginaceae;single;Juvenil biomass;NA;NA;0,144518272;NA;NA;NA;0,04;Auto;Digitalis_purpurea;Grindeland_2008_Journal_of_evolutionary_biology
+Digitalis purpurea;plantaginaceae;single;Survival rate;NA;NA;0;NA;NA;NA;0,04;Auto;Digitalis_purpurea;Grindeland_2008_Journal_of_evolutionary_biology
+Digitalis purpurea;plantaginaceae;single;Flowering time;NA;NA;-0,044117647;NA;NA;NA;0,04;Auto;Digitalis_purpurea;Grindeland_2008_Journal_of_evolutionary_biology
+Digitalis purpurea;plantaginaceae;single;Flower number;NA;NA;0,208121827;NA;NA;NA;0,04;Auto;Digitalis_purpurea;Grindeland_2008_Journal_of_evolutionary_biology
+Digitalis purpurea;plantaginaceae;single;Cumulative fitness;NA;NA;0,255555556;NA;NA;NA;0,04;Auto;Digitalis_purpurea;Grindeland_2008_Journal_of_evolutionary_biology
+Campanula americana;campanulaceae;Mean;Germination rate;NA;NA;0,1;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_Etterson_2007_NewPhytologist
+Campanula americana;campanulaceae;Mean;Rosette size;NA;NA;0,14;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_Etterson_2007_NewPhytologist
+Campanula americana;campanulaceae;Mean;Survival rate;NA;NA;0,13;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_Etterson_2007_NewPhytologist
+Campanula americana;campanulaceae;Mean;Survival rate;NA;NA;0,145;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_Etterson_2007_NewPhytologist
+Campanula americana;campanulaceae;Mean;Survival rate;NA;NA;0,39;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_Etterson_2007_NewPhytologist
+Campanula americana;campanulaceae;Mean;Flowering time;NA;NA;0,07;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_Etterson_2007_NewPhytologist
+Campanula americana;campanulaceae;Mean;Biomass;NA;NA;0,51;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_Etterson_2007_NewPhytologist
+Campanula americana;campanulaceae;Mean;Seed number;NA;NA;0,42;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_Etterson_2007_NewPhytologist
+Campanula americana;campanulaceae;Mean;Fruit number;NA;NA;0,68;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_Etterson_2007_NewPhytologist
+Campanula americana;campanulaceae;Mean;Cumulative fitness;NA;NA;0,93;NA;NA;NA;0,062;Auto;Campanula_americana;Galloway_Etterson_2007_NewPhytologist
+Amsinckia gloriosa;boraginaceae;Mean;Germination rate;0,006;NA;0;NA;0;0,693;0,98;Auto;Echium_vulgare;Johnston_Schoen_1996_Evolution
+Amsinckia gloriosa;boraginaceae;Mean;Emergence rate;0,0065;NA;0,0125;NA;1,923076923;0,693;0,98;Auto;Echium_vulgare;Johnston_Schoen_1996_Evolution
+Amsinckia gloriosa;boraginaceae;Mean;Flower number;0,12;NA;0,045;NA;0,375;0,693;0,98;Auto;Echium_vulgare;Johnston_Schoen_1996_Evolution
+Amsinckia gloriosa;boraginaceae;Mean;Cumulative fitness;0,132;NA;0,055;NA;0,416666667;0,693;0,98;Auto;Echium_vulgare;Johnston_Schoen_1996_Evolution
+Beta vulgaris;amaranthaceae;Mean;Root yield;0,133;NA;0,133;NA;1;0,07;0,07;Auto;Beta_vulgaris;Hecker_1972_Euphytica
+Beta vulgaris;amaranthaceae;Mean;Sucrose;0,014;NA;0,02;NA;1,428571429;0,07;0,07;Auto;Beta_vulgaris;Hecker_1972_Euphytica
+Agropyron cristatum;poaceae;Mean;Forage yield;0,359;NA;0,504;NA;1,403899721;0,15;0,15;Auto;Agropyron_cristatum;Dewey_1966_Crop_Science
+Scalesia affinis;asteraceae;single;Germination rate;NA;NA;0,34;NA;NA;NA;0,05;Auto;Chrysanthemum_indicum;Nielsen_et_al_2006_Evolutionary_Ecology
+Scalesia affinis;asteraceae;single;Survival rate;NA;NA;0,5;NA;NA;NA;0,05;Auto;Chrysanthemum_indicum;Nielsen_et_al_2006_Evolutionary_Ecology
+Iris versicolor;iridaceae;Mean;Fruit number;NA;NA;-0,142857143;NA;NA;NA;0,4;Allo;Iris_versicolor;Wheelwright_et_al_2016_Botany
+Iris versicolor;iridaceae;Mean;Capsule length;NA;NA;0,026315789;NA;NA;NA;0,4;Allo;Iris_versicolor;Wheelwright_et_al_2016_Botany
+Iris versicolor;iridaceae;Mean;Seed number;NA;NA;-0,022222222;NA;NA;NA;0,4;Allo;Iris_versicolor;Wheelwright_et_al_2016_Botany
+Iris versicolor;iridaceae;Mean;Survival rate;NA;NA;0,029411765;NA;NA;NA;0,4;Allo;Iris_versicolor;Wheelwright_et_al_2016_Botany
+Iris versicolor;iridaceae;Mean;Seed mass;NA;NA;0,03125;NA;NA;NA;0,4;Allo;Iris_versicolor;Wheelwright_et_al_2016_Botany
+Iris versicolor;iridaceae;Mean;Germination rate;NA;NA;-0,6;NA;NA;NA;0,4;Allo;Iris_versicolor;Wheelwright_et_al_2016_Botany
+Anthericum liliago;liliaceae;Mean;Fruit number;0,313309776;NA;-0,054469274;NA;-0,173851178;NA;NA;Allo;Anthericum_liliago;Rosquist_2001_Oikos
+Anthericum liliago;liliaceae;Mean;Seed number;0,330388693;NA;0,053173242;NA;0,16094147;NA;NA;Allo;Anthericum_liliago;Rosquist_2001_Oikos
+Anthericum liliago;liliaceae;Mean;Seed mass;NA;NA;0,047835991;NA;NA;NA;NA;Allo;Anthericum_liliago;Rosquist_2001_Oikos
+Anthericum liliago;liliaceae;Mean;Germination rate;0,112068966;NA;-0,029929577;NA;-0,267063922;NA;NA;Allo;Anthericum_liliago;Rosquist_2001_Oikos
+Clarkia davyi;onagraceae;Mean;Seed number;0,21;NA;0,02;NA;0,095238095;0,75;0,78;Allo;Oenothera_grandis;Barringer_Geber_2008_Evolution
+Clarkia davyi;onagraceae;Mean;Germination rate;0,06;NA;0,05;NA;0,833333333;0,75;0,78;Allo;Oenothera_grandis;Barringer_Geber_2008_Evolution
+Clarkia davyi;onagraceae;Mean;Survival rate;0,13;NA;-0,06;NA;-0,461538462;0,75;0,78;Allo;Oenothera_grandis;Barringer_Geber_2008_Evolution
+Clarkia davyi;onagraceae;Mean;Flower number;0,17;NA;0,03;NA;0,176470588;0,75;0,78;Allo;Oenothera_grandis;Barringer_Geber_2008_Evolution
+Clarkia davyi;onagraceae;Mean;Cumulative fitness;0,44;NA;0,27;NA;0,613636364;0,75;0,78;Allo;Oenothera_grandis;Barringer_Geber_2008_Evolution
+Clarkia davyi;onagraceae;Mean;Cumulative fitness;0,35;NA;-0,01;NA;-0,028571429;0,75;0,78;Allo;Oenothera_grandis;Barringer_Geber_2008_Evolution
+Clarkia gracilis;onagraceae;Mean;Seed number;0,35;NA;0,49;NA;1,4;0,18;0,15;Allo;Oenothera_laciniata;Barringer_Geber_2008_Evolution
+Clarkia gracilis;onagraceae;Mean;Germination rate;0,41;NA;0,33;NA;0,804878049;0,18;0,15;Allo;Oenothera_laciniata;Barringer_Geber_2008_Evolution
+Clarkia gracilis;onagraceae;Mean;Survival rate;0,4;NA;0,23;NA;0,575;0,18;0,15;Allo;Oenothera_laciniata;Barringer_Geber_2008_Evolution
+Clarkia gracilis;onagraceae;Mean;Flower number;0,33;NA;0,13;NA;0,393939394;0,18;0,15;Allo;Oenothera_laciniata;Barringer_Geber_2008_Evolution
+Clarkia gracilis;onagraceae;Mean;Cumulative fitness;0,51;NA;0,66;NA;1,294117647;0,18;0,15;Allo;Oenothera_laciniata;Barringer_Geber_2008_Evolution
+Clarkia gracilis;onagraceae;Mean;Cumulative fitness;0,6;NA;0,57;NA;0,95;0,18;0,15;Allo;Oenothera_laciniata;Barringer_Geber_2008_Evolution
+Aster kantoensis;asteraceae;Mean;Survival rate;NA;NA;0,232;NA;NA;NA;0,2;Auto;Aster_indicus;Inoue_et_al_1998_Journal_of_Heredity
+Aster kantoensis;asteraceae;Mean;Stem diameter;NA;NA;0,084;NA;NA;NA;0,2;Auto;Aster_indicus;Inoue_et_al_1998_Journal_of_Heredity
+Aster kantoensis;asteraceae;Mean;Flowering rate;NA;NA;0,64;NA;NA;NA;0,2;Auto;Aster_indicus;Inoue_et_al_1998_Journal_of_Heredity
+Aster kantoensis;asteraceae;Mean;Survival rate;NA;NA;0,311;NA;NA;NA;0,2;Auto;Aster_indicus;Inoue_et_al_1998_Journal_of_Heredity
+Aster kantoensis;asteraceae;Mean;Stem diameter;NA;NA;-0,04;NA;NA;NA;0,2;Auto;Aster_indicus;Inoue_et_al_1998_Journal_of_Heredity
+Aster kantoensis;asteraceae;Mean;Flowering rate;NA;NA;-0,146;NA;NA;NA;0,2;Auto;Aster_indicus;Inoue_et_al_1998_Journal_of_Heredity
+Aster kantoensis;asteraceae;Mean;Flower number;NA;NA;0,653;NA;NA;NA;0,2;Auto;Aster_indicus;Inoue_et_al_1998_Journal_of_Heredity
+Silene virginica;caryophyllaceae;Mean;Fruit number;NA;NA;-0,128571429;NA;NA;NA;0,11;Auto;Silene_virginica;Dudash_Fenster_2001_American_Journal_of_Botany
+Silene virginica;caryophyllaceae;Mean;Seed number;NA;NA;-0,117647059;NA;NA;NA;0,11;Auto;Silene_virginica;Dudash_Fenster_2001_American_Journal_of_Botany
+Silene virginica;caryophyllaceae;Mean;Seed mass;NA;NA;-0,011627907;NA;NA;NA;0,11;Auto;Silene_virginica;Dudash_Fenster_2001_American_Journal_of_Botany
+Silene virginica;caryophyllaceae;Mean;Germination rate;NA;NA;0,204081633;NA;NA;NA;0,11;Auto;Silene_virginica;Dudash_Fenster_2001_American_Journal_of_Botany
+Silene virginica;caryophyllaceae;Mean;Leaf number;NA;NA;0,155400155;NA;NA;NA;0,11;Auto;Silene_virginica;Dudash_Fenster_2001_American_Journal_of_Botany
+Silene virginica;caryophyllaceae;Mean;Biomass;NA;NA;0,189189189;NA;NA;NA;0,11;Auto;Silene_virginica;Dudash_Fenster_2001_American_Journal_of_Botany
+Silene virginica;caryophyllaceae;Mean;Flower number;NA;NA;0,247337278;NA;NA;NA;0,11;Auto;Silene_virginica;Dudash_Fenster_2001_American_Journal_of_Botany
+Silene virginica;caryophyllaceae;Mean;Height;NA;NA;0,034055728;NA;NA;NA;0,11;Auto;Silene_virginica;Dudash_Fenster_2001_American_Journal_of_Botany
+Chamerion angustifolium;onagraceae;Mean;Pollen tube length;0,009151152;NA;0,258731865;NA;28,27314755;0,1;0,285;Auto;Chamerion_angustifolium;Husband_2016_American_Journal_of_Botany
+Chamerion angustifolium;onagraceae;Mean;Pollen penetrance;0,016713092;NA;0,183279743;NA;10,96623794;0,1;0,285;Auto;Chamerion_angustifolium;Husband_2016_American_Journal_of_Botany
+Chamerion angustifolium;onagraceae;Mean;Seed number;0,693075483;NA;0,52585087;NA;0,758720923;0,1;0,285;Auto;Chamerion_angustifolium;Husband_2016_American_Journal_of_Botany
+Chamerion angustifolium;onagraceae;Mean;Germination rate;0,505988024;NA;0,218316887;NA;0,43146651;0,1;0,285;Auto;Chamerion_angustifolium;Husband_2016_American_Journal_of_Botany
+Chamerion angustifolium;onagraceae;Mean;Cumulative fitness;0,881137309;NA;0,455931765;NA;0,517435547;0,1;0,285;Auto;Chamerion_angustifolium;Husband_2016_American_Journal_of_Botany
+Fragaria vesca;rosaceae;Mean;Seed number;0,590909091;0,75308642;NA;1,274453941;NA;0,31;0,31;Auto;Fragaria_vesca;Kwon_2013_Dissertation
+Acacia auriculiformis;fabaceae;Mean;Growth rate;0,33;0,17;NA;0,515151515;NA;0,31;0,31;Auto;Acacia_mayana;Le_et_al_2021_Forests
+Mercurialis annua;euphorbiaceae;Pop1;Male reproductive effort;NA;NA;0,58;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop2;Male reproductive effort;NA;NA;0,6;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop3;Male reproductive effort;NA;NA;0,55;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop4;Male reproductive effort;NA;NA;0,24;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop5;Male reproductive effort;NA;NA;0,17;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop6;Male reproductive effort;NA;NA;0,15;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop7;Male reproductive effort;NA;NA;0,15;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop8;Male reproductive effort;NA;NA;0,13;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop9;Male reproductive effort;NA;NA;0,05;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop10;Male reproductive effort;NA;NA;0,01;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop11;Male reproductive effort;NA;NA;-0,08;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop12;Male reproductive effort;NA;NA;-0,15;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop13;Male reproductive effort;NA;NA;-0,16;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop14;Male reproductive effort;NA;NA;-0,17;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop15;Male reproductive effort;NA;NA;-0,21;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop16;Male reproductive effort;NA;NA;-0,22;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop1;Cumulative fitness;NA;NA;0,61;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop2;Cumulative fitness;NA;NA;0,45;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop3;Cumulative fitness;NA;NA;0,25;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop4;Cumulative fitness;NA;NA;0,24;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop5;Cumulative fitness;NA;NA;0,15;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop6;Cumulative fitness;NA;NA;0,17;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop7;Cumulative fitness;NA;NA;0,105;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop8;Cumulative fitness;NA;NA;0,01;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop9;Cumulative fitness;NA;NA;-0,04;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop10;Cumulative fitness;NA;NA;-0,04;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop11;Cumulative fitness;NA;NA;-0,05;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop12;Cumulative fitness;NA;NA;-0,06;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop13;Cumulative fitness;NA;NA;-0,08;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop14;Cumulative fitness;NA;NA;-0,1;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop15;Cumulative fitness;NA;NA;-0,13;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop16;Cumulative fitness;NA;NA;-0,22;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop17;Cumulative fitness;NA;NA;-0,25;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Mercurialis annua;euphorbiaceae;Pop18;Cumulative fitness;NA;NA;-0,3;NA;NA;NA;0;Auto;Mercurialis_annua;Pujol_et_al_2009_PNAS
+Chamerion angustifolium;onagraceae;Mean;Fruit number;0,05;0,47;0,28;9,4;5,6;0,1;0,285;Auto;Chamerion_angustifolium;Ozimec_2006_Master_Thesis
+Chamerion angustifolium;onagraceae;Mean;Seed number;0,85;0,37;0,63;0,435294118;0,741176471;0,1;0,285;Auto;Chamerion_angustifolium;Ozimec_2006_Master_Thesis
+Chamerion angustifolium;onagraceae;Mean;Germination rate;0,79;0,14;0,29;0,17721519;0,367088608;0,1;0,285;Auto;Chamerion_angustifolium;Ozimec_2006_Master_Thesis
+Chamerion angustifolium;onagraceae;Mean;Survival rate;0,23;-0,02;0,04;-0,086956522;0,173913043;0,1;0,285;Auto;Chamerion_angustifolium;Ozimec_2006_Master_Thesis
+Chamerion angustifolium;onagraceae;Mean;Flowering rate;0,1;0,33;0,36;3,3;3,6;0,1;0,285;Auto;Chamerion_angustifolium;Ozimec_2006_Master_Thesis
+Chamerion angustifolium;onagraceae;Mean;Flowering time;0,3;-0,14;0,26;-0,466666667;0,866666667;0,1;0,285;Auto;Chamerion_angustifolium;Ozimec_2006_Master_Thesis
+Chamerion angustifolium;onagraceae;Mean;Pollen fertility;0,25;-0,25;0,04;-1;0,16;0,1;0,285;Auto;Chamerion_angustifolium;Ozimec_2006_Master_Thesis
+Chamerion angustifolium;onagraceae;Mean;Pollen number per flower;0,37;-0,58;0,19;-1,567567568;0,513513514;0,1;0,285;Auto;Chamerion_angustifolium;Ozimec_2006_Master_Thesis
+Chamerion angustifolium;onagraceae;Mean;Ovule number per ovary;0,2;0,03;0,05;0,15;0,25;0,1;0,285;Auto;Chamerion_angustifolium;Ozimec_2006_Master_Thesis
+Chamerion angustifolium;onagraceae;Mean;Inflorescence height;0,29;-0,36;0,16;-1,24137931;0,551724138;0,1;0,285;Auto;Chamerion_angustifolium;Ozimec_2006_Master_Thesis
+Chamerion angustifolium;onagraceae;Mean;Vegetative height;0,03;0,01;0,27;0,333333333;9;0,1;0,285;Auto;Chamerion_angustifolium;Ozimec_2006_Master_Thesis
+Chamerion angustifolium;onagraceae;Mean;Branch number;0,07;0,18;0,44;2,571428571;6,285714286;0,1;0,285;Auto;Chamerion_angustifolium;Ozimec_2006_Master_Thesis
+Chamerion angustifolium;onagraceae;Mean;Height;0,12;0,04;0,36;0,333333333;3;0,1;0,285;Auto;Chamerion_angustifolium;Ozimec_2006_Master_Thesis
+Chamerion angustifolium;onagraceae;Mean;Cumulative fitness;0,98;0,48;0,84;0,489795918;0,857142857;0,1;0,285;Auto;Chamerion_angustifolium;Ozimec_2006_Master_Thesis
+Medicago sativa;fabaceae;Mean;Seed number;NA;NA;0,96;NA;NA;NA;0,05;Auto;Medicago_sativa;Posler_et_al_1972_Crop_Science
+Medicago sativa;fabaceae;Mean;Seed number;NA;NA;0,85;NA;NA;NA;0,05;Auto;Medicago_sativa;Wilsie_1958_Agronomy_Journal
+Medicago sativa;fabaceae;Mean;Vegetative vigor;NA;NA;0,25;NA;NA;NA;0,05;Auto;Medicago_sativa;Wilsie_1958_Agronomy_Journal
+Vaccinium corymbosum;ericaceae;Mean;Fruit number;0,934;NA;0,623076923;NA;0,667105913;0,15;0,13;Auto;Vaccinium_corymbosum;Hokanson_Hankock_2000_Sex_Plant_Reproduction
+Vaccinium corymbosum;ericaceae;Mean;Ovule number;0,120713306;NA;0,276595745;NA;2,291344294;0,15;0,13;Auto;Vaccinium_corymbosum;Hokanson_Hankock_2000_Sex_Plant_Reproduction
+Vaccinium corymbosum;ericaceae;Mean;Seed number;0,883268482;NA;0,631578947;NA;0,715047531;0,15;0,13;Auto;Vaccinium_corymbosum;Hokanson_Hankock_2000_Sex_Plant_Reproduction
+Vaccinium corymbosum;ericaceae;Mean;Survival rate;0,99;NA;0,87;NA;0,878787879;0,15;0,13;Auto;Vaccinium_corymbosum;Hokanson_Hankock_2000_Sex_Plant_Reproduction
+Vaccinium angustifolium;ericaceae;Mean;Fruit number;0,934;NA;0,922190202;NA;0,987355676;0,15;0,17;Auto;Vaccinium_corymbosum;Hokanson_Hankock_2000_Sex_Plant_Reproduction
+Vaccinium angustifolium;ericaceae;Mean;Ovule number;0,120713306;NA;0,055393586;NA;0,458885502;0,15;0,17;Auto;Vaccinium_corymbosum;Hokanson_Hankock_2000_Sex_Plant_Reproduction
+Vaccinium angustifolium;ericaceae;Mean;Seed number;0,883268482;NA;0,74796748;NA;0,846817807;0,15;0,17;Auto;Vaccinium_corymbosum;Hokanson_Hankock_2000_Sex_Plant_Reproduction
+Vaccinium angustifolium;ericaceae;Mean;Survival rate;0,99;NA;0,98;NA;0,98989899;0,15;0,17;Auto;Vaccinium_corymbosum;Hokanson_Hankock_2000_Sex_Plant_Reproduction
+Agropyron cristatum;poaceae;Mean;Forage yield;0,549;0,173;NA;0,315118397;NA;0,15;0,15;Auto;Agropyron_cristatum;Dewey_1969_Crop_Science
+Mercurialis annua;euphorbiaceae;Mean;Germination rate;NA;NA;0,12;NA;NA;NA;0;Auto;Mercurialis_annua;Eppley_Pannell_2009_Heredity
+Mercurialis annua;euphorbiaceae;Mean;Survival rate;NA;NA;0;NA;NA;NA;0;Auto;Mercurialis_annua;Eppley_Pannell_2009_Heredity
+Mercurialis annua;euphorbiaceae;Mean;Dry mass;NA;NA;-0,384615385;NA;NA;NA;0;Auto;Mercurialis_annua;Eppley_Pannell_2009_Heredity
+Mercurialis annua;euphorbiaceae;Mean;Viable pollen;NA;NA;0,047619048;NA;NA;NA;0;Auto;Mercurialis_annua;Eppley_Pannell_2009_Heredity
+Mercurialis annua;euphorbiaceae;Mean;Seed mass;NA;NA;-0,52;NA;NA;NA;0;Auto;Mercurialis_annua;Eppley_Pannell_2009_Heredity
+Knautia arvensis;dipsacaceae;Mean;Germination rate;NA;NA;0,198347107;NA;NA;NA;0,4;Auto;Knautia_arvensis;Vange_2002_Biological_Conservation
+Knautia arvensis;dipsacaceae;Mean;Survival rate;NA;NA;0,092729189;NA;NA;NA;0,4;Auto;Knautia_arvensis;Vange_2002_Biological_Conservation
+Knautia arvensis;dipsacaceae;Mean;Biomass;NA;NA;0,454368932;NA;NA;NA;0,4;Auto;Knautia_arvensis;Vange_2002_Biological_Conservation
+Knautia arvensis;dipsacaceae;Mean;Cumulative fitness;NA;NA;0,57804878;NA;NA;NA;0,4;Auto;Knautia_arvensis;Vange_2002_Biological_Conservation
+Spartina alterniflora;poaceae;Mean;Seed viability;NA;NA;0,529;NA;NA;NA;0,38;Allo;Spartina_alterniflora;Daehler_1998_Evolutionary_ecology
+Trifolium hybridum;fabaceae;Mean;Seed number;NA;0,92;NA;NA;NA;NA;0,04;Auto;Trifolium_hybridum;Amstrong_Roberston_1956_Canadian_Journal_of_Agriculture_Science
+Pyrus communis;rosaceae;Mean;Seed number;NA;NA;0,4;NA;NA;NA;0,08;Auto;Pyrus_communis;Crane_Lewis_1942_Journal_of_Genetics
