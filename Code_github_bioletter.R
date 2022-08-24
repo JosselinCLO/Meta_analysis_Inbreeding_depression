@@ -40,7 +40,7 @@ Controlled = cbind(value_IBD, ploidy, species, species_phy)
 Controlled = as.data.frame(Controlled)
 Controlled = as.numeric(Controlled$value_IBD)
 
-factor_controlled<-MCMCglmm(value_IBD~ ploidy, random= ~species, data = Controled, family = "gaussian", nitt = 6000000, burnin=1000000, thin=100, verbose = TRUE)
+factor_controlled<-MCMCglmm(value_IBD~ ploidy, random= ~species, data = Controlled, family = "gaussian", nitt = 6000000, burnin=1000000, thin=100, verbose = TRUE)
 
 # Different parameters of the model: -random effects: Species
 # Data = name of your dataset
