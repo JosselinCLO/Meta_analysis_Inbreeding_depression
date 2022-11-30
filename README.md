@@ -5,6 +5,17 @@ These code and data have been used to generate the result section of the manuscr
 
 It contains:
 
-- The dataset used
+- The dataset used, the dataset includes:
+  * The species' name
+  * The family of plants
+  * The name of the populations used in the articles
+  * The trait under study 
+  * Inbreeding depression estimates for the trait under study for each cytotype (ID diploid, ID synthetic, ID tetraploid)
+  * The ratio of inbreeding depression of diploids over synthetics or tetraploids (ratio_diplo_neo or ratio_diplo_tetra)
+  * A selfing rate estimate for diploids and polyploids (selfing_diplo, selfing_poly)
+  * The origin of polyploids (poly_type = auto- or allo-polyploids)
+  * The name of the species formated for the phylogenetic analysis (phylo_corr)
+  * The reference of the article
+  
 - The phylogenetic tree of sampled species
 - The Rcode used to perform the analyses.
