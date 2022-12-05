@@ -8,7 +8,7 @@ It contains:
 - The dataset used, the dataset includes:
   * The species' name
   * The family of plants
-  * The name of the populations used in the articles
+  * The name of the populations. We used the names provided in the original articles (for example River, Mtn613, Mtn700...), but when estimates come from a mix of several populations, we used the term "Mean".
   * The trait under study 
   * Inbreeding depression estimates for the trait under study for each cytotype (ID diploid, ID synthetic, ID tetraploid)
   * The ratio of inbreeding depression of diploids over synthetics or tetraploids (ratio_diplo_neo or ratio_diplo_tetra)
