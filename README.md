@@ -8,7 +8,7 @@ It contains:
 - The dataset used, the dataset includes:
   * The species' name
   * The family of plants
-  * The name of the populations. We used the names provided in the original articles (for example River, Mtn613, Mtn700...), but when estimates come from a mix of several populations, we used the term "Mean". When a single population was used, no names were given, we used the term "single".
+  * Population information. When estimates come from a mix of several populations, we used the term "Mean". When a single population was used, we used the term "single".
   * The trait under study. For more details, please refer to the article liste in the "Reference" column. 
   * Inbreeding depression estimates for the trait under study for each cytotype (ID diploid, ID synthetic, ID tetraploid). As most articles only gave estimates for synthetic or tetraploid individuals, there are 'NA' values for missing cytotypes. For example, the second reference (Galloway et al. 2003 heredity) only gave ID estimates for tetraploids, so there are NA values for diploids (ID_diploid) and synthetic polyploids (ID_synthetic)
   * The ratio of inbreeding depression of diploids over synthetics or tetraploids (ratio_diplo_neo or ratio_diplo_tetra). When there are no values for diploids (ID_diploids = NA), the ratio cannot be computed and a NA value is assigned.
